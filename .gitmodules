@@ -1,0 +1,9 @@
+[submodule "third_parts/json-c"]
+	path = third_parts/json-c
+	url = https://github.com/json-c/json-c.git
+[submodule "third_parts/mosquitto"]
+	path = third_parts/mosquitto
+	url = https://github.com/eclipse/mosquitto.git
+[submodule "third_parts/FFmpeg"]
+	path = third_parts/FFmpeg
+	url = https://github.com/FFmpeg/FFmpeg.git
